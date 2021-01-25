@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1610946055 source:d:\users\ferna\documents\cursos\platzi\introduccion a c++\juego\src\player.cpp
+	<iostream>
+	"Player.h"
+
+1610946025 d:\users\ferna\documents\cursos\platzi\introduccion a c++\juego\include\player.h
+
+1610947701 source:d:\users\ferna\documents\cursos\platzi\introduccion a c++\juego\main.cpp
+	<iostream>
+	"Player.h"
+	"MapaCell.h"
+	"GameMap.h"
+
+1610945676 d:\users\ferna\documents\cursos\platzi\introduccion a c++\juego\include\mapacell.h
+
+1610945724 source:d:\users\ferna\documents\cursos\platzi\introduccion a c++\juego\src\mapacell.cpp
+	"MapaCell.h"
+
+1610988833 d:\users\ferna\documents\cursos\platzi\introduccion a c++\juego\include\gamemap.h
+	"MapaCell.h"
+
+1610988911 source:d:\users\ferna\documents\cursos\platzi\introduccion a c++\juego\src\gamemap.cpp
+	"GameMap.h"
+	<iostream>
+	<fstream>
+
